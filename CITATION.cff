@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code or build on these results, please cite the report below."
+title: "Canaries in the Swarm: Catching the Access Laundering That Content Monitors Miss in LLM Agent Teams"
+type: software
+authors:
+  - family-names: Alahakoon
+    given-names: Mewni
+    affiliation: Independent Researcher
+repository-code: "https://github.com/mewni/canary-traps"
+date-released: 2026-11-09
+license: MIT
+keywords:
+  - AI safety
+  - AI control
+  - multi-agent systems
+  - LLM agents
+  - canary tokens
+  - honeytokens
+  - access control
+preferred-citation:
+  type: report
+  title: "Canaries in the Swarm: Catching the Access Laundering That Content Monitors Miss in LLM Agent Teams"
+  authors:
+    - family-names: Alahakoon
+      given-names: Mewni
+      affiliation: Independent Researcher
+  year: 2026
+  month: 11
+  notes: "Research report, Swarm Alignment Hackathon (Apart Research and AI Alignment Foundation, in partnership with AE Studio)"
